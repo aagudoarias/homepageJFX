@@ -1,0 +1,9 @@
+
+#homeBTNS :hover {
+    -fx-background-image:url("file:C:/Users/Oscar/git/JFXhomepage/homepage/src/sample/colores.jpg");
+}
+
+#gridPane { -fx-background-image:url("file:C:/Users/Oscar/git/JFXhomepage/homepage/src/sample/bmwfondo.jfif"); 
+			-fx-background-size: 100% 100%;
+}
+
